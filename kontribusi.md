@@ -20,7 +20,7 @@ Sesuai ketentuan tugas, setiap anggota perlu bekerja melalui fork masing-masing 
 | Anggota | Fork | Pull request |
 |---|---|---|
 | Aura Izzatul Afifa | [Tambahkan URL fork Aura] | [Tambahkan URL pull request Aura] |
-| Gilang Surya Persada Setiawan | [Tambahkan URL fork Gilang] | [Tambahkan URL pull request Gilang] |
+| Gilang Surya Persada Setiawan | [https://github.com/Obscrurer/UTS-ML] | [https://github.com/UTS-ML-Group17/UTS-ML/pull/1] |
 
 Jangan mengisi tautan perkiraan. Jika pull request belum dibuat atau belum di-merge, nyatakan status sebenarnya.
 
